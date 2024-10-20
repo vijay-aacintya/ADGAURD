@@ -1,0 +1,5 @@
+!Jayaram Family Allow List
+||v10.events.data.microsoft.com^
+||activity.windows.com^
+||_minecraft._tcp.block-unlikely.gl.joinmc.link
+
